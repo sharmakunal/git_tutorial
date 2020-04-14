@@ -1,1 +1,1 @@
-Hi, This is the feature branch.
+Hi, This is the [Feature] branch.
